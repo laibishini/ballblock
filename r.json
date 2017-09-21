@@ -1,0 +1,9 @@
+{
+  "images":[
+    {"name":"ball","src":"images/ball.png"},
+    {"name":"bg","src":"images/bg.png"},
+    {"name":"block","src":"images/block.png"},
+    {"name":"racket","src":"images/racket.png"}
+
+  ]
+}
